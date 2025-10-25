@@ -75,11 +75,11 @@ authentication-python/
 - 
 ## Screenshot
 
-## 1 Registration
+ 1 Registration
 <img width="1909" height="866" alt="Screenshot 2025-10-25 210023" src="https://github.com/user-attachments/assets/dbc6b468-b0ed-428b-9667-cd5f08aebe15" />
-## 2 Login
+ 2 Login
 <img width="1914" height="866" alt="Screenshot 2025-10-25 210034" src="https://github.com/user-attachments/assets/764de95c-1c69-4b28-b402-cc218cbdfc6b" />
-## Dashbord
+ Dashbord
 <img width="1916" height="865" alt="Screenshot 2025-10-25 210113" src="https://github.com/user-attachments/assets/dfb850f4-2425-4097-a717-b8ace3b884b8" />
 
 ## Contributing
